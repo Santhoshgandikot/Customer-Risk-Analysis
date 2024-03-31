@@ -35,4 +35,7 @@
 5. **Service Quality Enhancement**: Invest in enhancing service quality, particularly for high-revenue services like fiber optic, to ensure customer satisfaction and loyalty.
 
 6. **Data-Driven Decision Making**: Utilize data analytics to monitor churn trends, customer behavior, and revenue drivers, enabling informed decision-making and strategy refinement.
+   
+
+### Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMTZjYzllZjUtNmNkYS00YzMyLWFkMWYtMWUxMDk1ODBlMzVmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
